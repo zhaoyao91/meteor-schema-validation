@@ -74,7 +74,7 @@ You can add validations by any of the following methods. for more, see [doc](htt
 You can enable/disable string validations by `SchemaValidation.stringValidations.enable(nameFunc)/disable()`. for more, see [doc](https://github.com/zhaoyao91/meteor-validations#string-validations).
 
 ## Tests
-In the project with this package, run meteor test-packages zhaoyao91:schema-validation.
+In the project with this package, run `meteor test-packages zhaoyao91:schema-validation`.
 
 ## License (MIT)
 
