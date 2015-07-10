@@ -8,7 +8,7 @@ Package.describe({
 
 Package.onUse(function (api) {
     api.versionsFrom('1.1.0.2');
-    api.use('zhaoyao91:validations');
+    api.use('zhaoyao91:validations@1.0.0');
     api.use('check');
 
     api.addFiles('lib/utils.js');
