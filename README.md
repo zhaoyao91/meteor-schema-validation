@@ -52,6 +52,9 @@ A schema language is any object that can translate some kind of schema into a [s
 - **parse(some kind of schema) => simple schema**
 - **updateValidationList(list)** - used to inform the language that it should update validation list in case some new validation is added.
 
+### Available schema languages
+- [sl-js](https://github.com/zhaoyao91/meteor-schema-language-js)
+
 ## Reporter
 A reporter is any object that can format the [report of a validation](https://github.com/zhaoyao91/meteor-validations#validation-class) into something else. It must have the following methods:
 - **makeReport(report) => formatted report**
