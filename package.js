@@ -1,6 +1,6 @@
 Package.describe({
     name: 'zhaoyao91:schema-validation',
-    version: '1.0.0',
+    version: '1.0.1',
     summary: 'define a schema, validate the world.',
     git: 'https://github.com/zhaoyao91/meteor-schema-validation',
     documentation: 'README.md'
